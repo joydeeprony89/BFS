@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFS", "BFS\BFS.csproj", "{550C94F2-0D31-47B2-A2AF-58076F225839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{550C94F2-0D31-47B2-A2AF-58076F225839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550C94F2-0D31-47B2-A2AF-58076F225839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550C94F2-0D31-47B2-A2AF-58076F225839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550C94F2-0D31-47B2-A2AF-58076F225839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {993A2EBE-8E4F-4270-BE84-4DA4D97B71FA}
+	EndGlobalSection
+EndGlobal
