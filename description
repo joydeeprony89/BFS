@@ -1,0 +1,7 @@
+•	BFS is a vertex-based technique for finding a shortest path in graph. 
+•	It uses Queue DS.
+•	Rule
+  o	Visiting a vertex
+  o	Exploration of vertex
+•	It’s a levelorder tree traversal
+ 
